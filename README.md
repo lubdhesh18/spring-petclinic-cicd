@@ -90,14 +90,18 @@ Version: 6.2.8
 | Tomcat    | Application deployment |
 
 ## 🌐 **Live Application Screenshot**
-See /screenshots/tomcat_deployment.png
+See /screenshots/DeployedTomcat10/
 
 ## 🏁 **Final Output**
 
 ✔️ Fully automated CI/CD pipeline
+
 ✔️ Quality gate validation
+
 ✔️ Artifact lifecycle management
+
 ✔️ Zero manual deployment
+
 ✔️ Professional DevOps project ready for portfolio & resume
 
 ## ⭐ **If this project helped you, give it a star!**
