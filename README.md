@@ -24,8 +24,6 @@ It covers the complete lifecycle: **Build → Test → Analyze → Store → Dep
 | 🐱 Tomcat 10 | Deployment Server |
 | ☕ Java / Spring | Application Framework |
 
----
-
 ## 🎯 **Pipeline Flow (High-Level Architecture)**
 GitHub → Jenkins → SonarQube → Maven Build → Nexus → Tomcat Deployment
 
