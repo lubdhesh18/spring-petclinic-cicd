@@ -32,8 +32,6 @@ GitHub → Jenkins → SonarQube → Maven Build → Nexus → Tomcat Deployment
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b290e882-6e01-49fb-abd4-f6d9e6e6ec8e" />
 
 
----
-
 ## 🚦 **CI/CD Pipeline Stages**
 
 ### **1️⃣ Source Stage**
@@ -57,8 +55,6 @@ GitHub → Jenkins → SonarQube → Maven Build → Nexus → Tomcat Deployment
 - Auto deploys to:  
   👉 `http://<tomcat-ip>:8080/petclinic`
 
----
-
 ## 📊 **Pipeline Screenshot Highlights**
 (All images go into `/screenshots/` folder)
 
@@ -67,8 +63,6 @@ GitHub → Jenkins → SonarQube → Maven Build → Nexus → Tomcat Deployment
 - 📦 Nexus Artifact Upload  
 - 🐱 Tomcat Deployment (Live App)  
 - 🖥️ EC2 Instances Setup
-
----
 
 ## 📦 **Nexus Configuration**
 
